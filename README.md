@@ -402,8 +402,8 @@ Track the simulated recovery outcome.
 * React
 * TypeScript
 * Tailwind CSS
-* Responsive UI
-* Data visualization
+* Vite
+* HTML5
 
 ### Backend / Data
 
